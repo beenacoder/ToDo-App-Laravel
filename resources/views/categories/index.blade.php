@@ -1,5 +1,5 @@
 <!-- Extendemos de la planilla base -->
-@extend('app')
+@extends('app')
 
 
 <!-- Definimos la seccion -->
