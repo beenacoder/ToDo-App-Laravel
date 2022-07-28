@@ -35,10 +35,10 @@
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link " href="#">Tareas</a>
+                <a class="nav-link " href="{{route('todos')}}">Tareas</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Categorías</a>
+                <a class="nav-link" href="{{route('categories.index')}}">Categorías</a>
             </li>
         </ul>
     </div>
